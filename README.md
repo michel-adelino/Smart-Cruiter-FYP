@@ -2,8 +2,6 @@
 
 An applicant tracking system (ATS) that helps organizations manage their end-to-end hiring workflow—from job posting and candidate screening to interviews, offers, and reporting.
 
-**Live demo:** [https://smart-cruiter-fyp-mqjf.vercel.app](https://smart-cruiter-fyp-mqjf.vercel.app)
-
 ---
 
 ## Features
